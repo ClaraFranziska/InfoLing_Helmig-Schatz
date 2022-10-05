@@ -1,5 +1,5 @@
 Hier sind alle Tweets der einzelnen Bundesländer zu finden.
-Auffällig ist, das alle Tweets von den (meistens) Landtägen der Bundesländer stammen, nur Mecklenburg-Vorpommern in der Liste nicht auftaucht. das liegt daran,
+Auffällig ist, das alle Tweets (meistens) von den Landtägen der Bundesländer stammen, nur Mecklenburg-Vorpommern in der Liste nicht auftaucht. Das liegt daran,
 dass keine politische Instanz das Bundesland auf Twitter vertritt. Deshalb sind stellvertretend hierfür Manuela Schwesig zu finden.
 
 Die Tweets stammen von folgenden Accounts:
